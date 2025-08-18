@@ -1,4 +1,4 @@
- Wind Turbine Satellite-image Dataset
+Wind Turbine Satellite-image Dataset
 
 Train:
 871 images
