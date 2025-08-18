@@ -1,0 +1,1 @@
+This project contains two semantic segmentation datasets for wind turbines: WTA (Wind Turbine Aerial-image Dataset) and WTS (Wind Turbine Satellite-image Dataset). For specific details, please refer to the Readme.txt in the folder.
