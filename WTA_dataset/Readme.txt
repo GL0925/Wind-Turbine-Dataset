@@ -14,6 +14,8 @@ dataset: https://github.com/gzamps/wta_tla_dataset
   title={WTA/TLA: A UAV-captured Dataset for Semantic Segmentation of Energy Infrastructure}, 
   year={2022}
 
+Three methods, namely SSIM (Structural Similarity Index), histogram similarity, and pixel similarity, are used to check whether there is duplication or high similarity between the training set and the test set.
+
 Note the following changes:
 1>'envB_06t' is a duplicate of 'envB_01'. Action: Moved envB_06t to the training dataset.
 2>'envB_09t' is a duplicate of 'envB_31'. Action: Moved envB_09t to the training dataset.
